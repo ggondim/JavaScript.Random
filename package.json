@@ -1,0 +1,24 @@
+{
+  "name": "js-random",
+  "version": "0.1.2",
+  "description": "A randomizer class with floating-point precision and range support.",
+  "main": "random.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ggondim/JavaScript.Random.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "random",
+    "range"
+  ],
+  "author": "Gustavo Gondim (https://github.com/ggondim)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ggondim/JavaScript.Random/issues"
+  },
+  "homepage": "https://github.com/ggondim/JavaScript.Random"
+}
